@@ -1,0 +1,10 @@
+- Create the list of publications, with links to arxiv/ScienceDirect and co-authors
+- Write the text for Teaching
+- Create the publications and teaching pages
+- Get the font to work
+- Make a nice menu bar with grey buttons that become darker
+- Do I need a dropdown menu?
+- Think about what you want to put in "other". Perhaps a personal part of the page?
+
+Long term:
+- Does the website work on smaller screens as well?

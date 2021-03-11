@@ -1,0 +1,33 @@
+@font-face{
+   font-family:GillSansMTPro;
+   src: url(fonts/GillSansMTPro-Bold.otf)
+ }
+
+body {
+    margin:0;
+}
+
+header {
+    background: white;
+    font-family: GillSansMTPro;
+    letter-spacing: 0.18em !important;
+}
+
+nav {
+    text-align:center;
+}
+
+nav ul {
+
+}
+
+nav ul li {
+        display: inline-block;
+        list-style-type: none;
+        padding: 5px 15px;
+}
+
+nav ul li a {
+    color:black;
+    text-transform: uppercase;
+}
